@@ -12,7 +12,7 @@ There are several options available to install the package:
 
 ### From the command line
 
-- Check out the source ``git clone https://github.com/UBC-Stat-ML/blang520Assign.git``
+- Check out the source ``git clone https://github.com/alexandrebouchard/blang520Assign.git``
 - Compile using ``./gradlew installDist``
 - Add the directory ``build/install/blang520Assign/bin`` to your ``$PATH`` variable.
 - **Make sure this works before the tutorial**: ``blang520Assign --help``. If not, contact us on Pizza. 
